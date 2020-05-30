@@ -1,0 +1,21 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  background-color: white;
+  width: 200px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  padding: 20px;
+  text-align: center;
+}
+
+.card img {
+  height: 100px;
+}
+
+.card p {
+  color: grey;
+  font-weight: lighter;
+}
